@@ -23,7 +23,7 @@ public class Limites{
   System.out.println("NUMEROS IMPARES");
   int j;
   j=num1;
-  while (j<num2){
+  while (j<=num2){
     if (j%2!=0){
     System.out.println(" "+j);
     }
